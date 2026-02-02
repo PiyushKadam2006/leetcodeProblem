@@ -1,4 +1,4 @@
-
+//java file
 class Solution {
     public int maxProfit(int[] prices) {
         int buy = prices[0];
